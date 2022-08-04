@@ -1,1 +1,1 @@
-# deskriptive-statistik
+# sample package
